@@ -1,3 +1,7 @@
+# Amelie du Toit
+
+Amelie du Toit is a designer and illustrator based in Cape Town. She studied at the Design Academy in Stellenbosch, and is a two-time nominated finalist at the Loeries Awards 2026.
+
 # Portfolio
 
 A lightweight, no-build portfolio for GitHub Pages. Plain HTML, CSS and a bit of JavaScript.
@@ -26,9 +30,9 @@ Preview Site.command  Mac: double-click to preview locally
   "slug": "my-project",
   "caption": "Short line shown next to the image.",
   "images": [
-    "images/my-project/01.jpg",
-    "images/my-project/02.jpg",
-    { "src": "images/my-project/03.jpg", "caption": "Overrides the project caption for this image", "alt": "Screen reader description" }
+    "images/my-project/01.png",
+    "images/my-project/02.png",
+    { "src": "images/my-project/03.png", "caption": "Overrides the project caption for this image", "alt": "Screen reader description" }
   ]
 }
 ```
@@ -58,7 +62,7 @@ To use a different typeface, load it in `index.html` (for example from Google Fo
 
 ## Prepare photos
 
-Keep each image around 1800px on the long edge, JPG at about 80% quality (usually 300 to 600 KB).
+Keep each image around 1800px on the long edge, saved as PNG.
 GitHub Pages recommends keeping a repo under 1 GB, so full-resolution originals shouldn't be committed.
 
 ```
@@ -66,7 +70,7 @@ pip install pillow
 python3 tools/optimize.py ~/Desktop/originals/my-project images/my-project
 ```
 
-It writes `01.jpg`, `02.jpg`... and prints the lines to paste into `projects.json`.
+It writes `01.png`, `02.png`... and prints the lines to paste into `projects.json`.
 
 ## Preview locally
 
