@@ -1,0 +1,129 @@
+{
+  "projects": [
+    {
+      "title": "Hit the drum",
+      "slug": "project-one",
+      "images": [
+        "images/project-one/DRUM-56.png",
+        "images/project-one/DRUM-33.png",
+        "images/project-one/DRUM-34.png",
+        "images/project-one/DRUM-35.png",
+        "images/project-one/DRUM-36.png",
+        "images/project-one/DRUM-55.png"
+      ],
+      "caption": "*LOERIE FINALIST 2026* A handmade book exploring the evolution of the drum, across cultures."
+    },
+    {
+      "title": "Form and Flora",
+      "slug": "project-two",
+      "images": [
+        "images/project-two/FLORA-51.png",
+        "images/project-two/FLORA-52.png",
+        "images/project-two/FLORA-53.png",
+        "images/project-two/FLORA-54.png",
+        "images/project-two/FLORA-55.png",
+        "images/project-two/FLORA-56.png",
+        "images/project-two/FLORA-57.png",
+        "images/project-two/FLORA-58.png"
+      ],
+      "caption": "*LOERIE FINALIST 2026* A handmade alphabet book exploring the significance of plant forms within typography."
+    },
+    {
+      "title": "Event posters",
+      "slug": "project-three",
+      "images": [
+        "images/project-three/POSTERS-19.png",
+        "images/project-three/POSTERS-20.png",
+        "images/project-three/POSTERS-21.png",
+        "images/project-three/POSTERS-22.png",
+        "images/project-three/POSTERS-23.png"
+      ],
+      "caption": "Ongoing posters for music events in and around Cape Town."
+    },
+    {
+      "title": "Toto",
+      "slug": "project-four",
+      "images": [
+        "images/project-four/TOTO-08.png",
+        "images/project-four/TOTO-09.png",
+        "images/project-four/TOTO-10.png",
+        "images/project-four/TOTO-11.png",
+        "images/project-four/TOTO-12.png",
+        "images/project-four/TOTO-13.png"
+      ],
+      "caption": "A personal tote bag brand exploring character illustration and screenprinting."
+    },
+    {
+      "title": "La Petite Ferme",
+      "slug": "project-five",
+      "images": [
+        "images/project-five/WINE-46.png",
+        "images/project-five/WINE-47.png",
+        "images/project-five/WINE-48.png",
+        "images/project-five/WINE-49.png",
+        "images/project-five/WINE-50.png"
+      ],
+      "caption": "Label concept for La Petite Ferme's 'ZA' Pinotage."
+    },
+    {
+      "title": "Children's book 'Iqanda'",
+      "slug": "project-six",
+      "images": [
+        "images/project-six/EGG-61.png",
+        "images/project-six/EGG-41.png",
+        "images/project-six/EGG-42.png",
+        "images/project-six/EGG-43.png",
+        "images/project-six/EGG-44.png",
+        "images/project-six/EGG-45.png",
+        "images/project-six/EGG-60.png"
+      ],
+      "caption": "Reinterpretation of a Book Dash project about a penguin looking for its egg."
+    },
+    {
+      "title": "Death Metal Cowboys",
+      "slug": "project-seven",
+      "images": [
+        "images/project-seven/COWBOYS-23.png",
+        "images/project-seven/COWBOYS-22.png",
+        "images/project-seven/COWBOYS-24.png",
+        "images/project-seven/COWBOYS-25.png"
+      ],
+      "caption": "A handmade zine exploring the death metal subculture of Botswana."
+    },
+    {
+      "title": "Pet stickers",
+      "slug": "project-eight",
+      "images": [
+        "images/project-eight/JUNO-31.png",
+        "images/project-eight/JUNO-32.png",
+        "images/project-eight/JUNO-33.png"
+      ],
+      "caption": "Commissioned stickers for a client and her dog, Juno."
+    },
+    {
+      "title": "Morris Remembers",
+      "slug": "project-nine",
+      "images": [
+        "images/project-nine/MORRIS-06.png",
+        "images/project-nine/MORRIS-07.png",
+        "images/project-nine/MORRIS-08.png",
+        "images/project-nine/MORRIS-09.png",
+        "images/project-nine/MORRIS-10.png"
+      ],
+      "caption": "A handmade minicomic about a 'beesinessman' that hates the dentist."
+    },
+    {
+      "title": "Surface design",
+      "slug": "project-ten",
+      "images": [
+        "images/project-ten/PATTERN-36.png",
+        "images/project-ten/PATTERN-37.png",
+        "images/project-ten/PATTERN-38.png",
+        "images/project-ten/PATTERN-39.png",
+        "images/project-ten/PATTERN-40.png",
+        "images/project-ten/PATTERN-59.png"
+      ],
+      "caption": "Japanese-inspired patterns intended for various interior surfaces."
+    }
+  ]
+}

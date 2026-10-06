@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Amelie du Toit</title>
+  <meta name="description" content="Photographer based in Your City">
+  <meta property="og:title" content="First Last">
+  <meta property="og:description" content="Photographer based in Your City">
+  <meta property="og:type" content="website">
+  <!-- After deploying, add: <meta property="og:image" content="https://YOUR-URL/images/social.jpg"> -->
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="layout">
+
+    <section class="left">
+      <a class="name name-top" href="#" id="name-first" aria-label="Home">Amelie</a>
+
+      <nav class="projects" id="projects" aria-label="Projects"></nav>
+
+      <span class="name name-bottom" id="name-last" aria-hidden="true">du Toit</span>
+    </section>
+
+    <section class="middle">
+      <p class="caption" id="caption" aria-live="polite"></p>
+      <div class="about" id="about" hidden></div>
+
+      <footer class="footer">
+        <a href="#about" id="about-link">About</a>
+        <a href="#" id="instagram-link" target="_blank" rel="noopener">Instagram</a>
+        <a href="#" id="behance-link" target="_blank" rel="noopener">Behance</a>
+        <a href="#" id="contact-link">Contact</a>
+      </footer>
+    </section>
+
+    <section class="stage-wrap">
+      <div class="arrows" id="arrows">
+        <button type="button" id="prev" aria-label="Previous image">&larr;</button>
+        <button type="button" id="next" aria-label="Next image">&rarr;</button>
+      </div>
+      <div class="stage" id="stage"></div>
+    </section>
+
+  </main>
+
+  <noscript><p class="noscript">This portfolio needs JavaScript to load the projects.</p></noscript>
+  <script src="script.js"></script>
+</body>
+</html>
